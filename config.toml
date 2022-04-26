@@ -1,4 +1,4 @@
-baseURL = 'https://neviim.makyo.ink/'
+baseURL = 'https://neviim.post-self.ink/'
 languageCode = 'en-us'
 title = "Nevi'im"
 theme = 'maddybook'
@@ -14,7 +14,7 @@ disablePathToLower = true
     copyright = 2022
     customCSS = ['/css/neviim.css']
     subtitle = 'Post-Self book III'
-    subtitleLink = 'https://post-self.makyo.ink'
+    subtitleLink = 'https://post-self.ink'
 
 [markup.goldmark.renderer]
     unsafe = true
