@@ -17,3 +17,7 @@ Growth is colliding with memory, and the cracks are showing.
 > These characters are so well realized, so fleshed out, that I can’t help but to gush about how their interactions with each other inform the central plot of the book.
 
 --- [Nenekiri Bookwyrm](https://www.goodreads.com/review/show/4700857305)
+
+> . . . [The characters] really drew me into the book, and helped me ask—and answer—questions that I never even knew I needed to ask.
+
+--- [Payson R.](https://www.goodreads.com/review/show/4705644411)
