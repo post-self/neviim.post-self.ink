@@ -1,3 +1,5 @@
+![Nevi'im cover](/front.jpg)
+
 > *“Do you know how old I am, Dr. Brahe? I am 222 years old, a fork of an individual who is...who would be 259 years old. I am no longer the True Name of 2124. Even remembering her feels like remembering an old friend..."*
 
 The cracks are showing.
