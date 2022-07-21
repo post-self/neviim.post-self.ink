@@ -1,3 +1,8 @@
+---
+---
+
+<div style="margin: 0 auto;text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZMlaPJkm7Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ![Nevi'im cover](/front.jpg)
 
 <p class="buy">
@@ -20,9 +25,7 @@ Growth is colliding with memory, and the cracks are showing.
 
 -----
 
-<!--
-You who are here: clever, clever. If you append /read to the URL, you will be able to read the book early within the browser. All I ask is that you consider leaving an advance review somewhere, even if it's just a tweet.
--->
+<p class="buy">Strapped for cash? <a href="/read">Read online for free!</a></p>
 <p class="buy">Still need to read the first two books? Read <a href="https://qoheleth.post-self.ink"><em>Qoheleth</em></a> and <a href="https://toledot.post-self.ink"><em>Toledot</em></a>.</p>
 
 ### Advance Praise for *Nevi'im*
