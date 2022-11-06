@@ -11,3 +11,14 @@ h1, h2 {
 blockquote {
     overflow-wrap: break-word;
 }
+
+figure {
+    margin: 1rem auto;
+    max-width: 90%;
+}
+
+figcaption {
+    text-align: center;
+    opacity: 0.9;
+    font-size: 50%;
+}
