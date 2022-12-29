@@ -25,6 +25,7 @@ Growth is colliding with memory, and the cracks are showing.
 
 <p class="buy">Strapped for cash? <a href="/read">Read online for free!</a></p>
 <p class="buy">Still need to read the first two books? Read <a href="https://qoheleth.post-self.ink"><em>Qoheleth</em></a> and <a href="https://toledot.post-self.ink"><em>Toledot</em></a>.</p>
+<p class="buy">Ready to move on to book IV? Read <a href="https://mitzvot.post-self.ink"><em>Mitzvot</em></a>.</p>
 
 ### Advance Praise for *Nevi'im*
 
