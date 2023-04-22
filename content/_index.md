@@ -6,8 +6,8 @@
 ![Nevi'im cover](/front.jpg)
 
 <p class="buy">
-<a href="https://makyo.itch.io/neviim" target="_blank">Pre-order ebook</a>
-<a href="https://makyo-ink.square.site/product/post-self-3-neviim/12" target="_blank">Pre-order paperback</a> 
+<a href="https://makyo.itch.io/neviim" target="_blank">Order ebook</a>
+<a href="https://makyo-ink.square.site/product/post-self-3-neviim/12" target="_blank">Order paperback</a> 
 <a href="https://anchor.fm/post-self" target="_blank">Listen to the podcast</a>
 </p>
 
