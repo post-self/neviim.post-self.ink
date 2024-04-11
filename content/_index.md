@@ -36,3 +36,28 @@ Growth is colliding with memory, and the cracks are showing.
 > . . . [The characters] really drew me into the book, and helped me ask—and answer—questions that I never even knew I needed to ask.
 
 --- [Payson R.](https://www.goodreads.com/review/show/4705644411)
+
+-----
+
+### About the author
+
+![Print by Forrest Gerke](https://makyo.ink/assets/img/headshot.png)
+
+Madison Scott-Clary is a transgender writer, editor, and software engineer. She focuses on furry fiction and non-fiction, using that as a framework for interrogating the concept of self and exploring across genres. A graduate of the Regional Anthropomorphic Writers Workshop in 2021, hosted by Kyell Gold and Dayna Smith, she holds an MFA in creative writing and education from Cornell College in Mount Vernon, IA. She lives in the Pacific Northwest with her dog, as well as her partner, who is sometimes a dog.
+
+<p style="text-align: center"><a href="https://makyo.ink" target="_blank">makyo.ink</a></p>
+
+### Acknowledgements {#acknowledgements .unnumbered}
+
+Thanks, as always, to the polycule, who have been endlessly supportive, but most especially to The Lament, so many of whose words appear within this book. Thanks as well as to Tomash, Ellen, Andréa, and all the rest of the Post-Self community, who have helped build this lovely world.
+
+Thanks also to my patrons:
+
+\$10+
+:   Ammy; Andréa C. Mason; Donna Karr (thanks, mom); Erika Kovac; Fuzz Wolf; green; Kit Redgrave; Merry Cearley; Mx. Juniper System; Orrery; Rob; Sariya Meolody
+
+\$5
+:   Some Egrets; ramshackle; Christi; Erica; Junkie Dawg; Lhexa; Lorxus, an actual fox on the internet; Norm Steadman; Petrov Neutrino; raxraxraxraxrax; Sasha Moore, Strawberry Daquiri; ubuntor; Zeta Syanthis
+
+\$1
+:   Alicia Goranson; Ayla Ounce; Bel; BowieBarks; Katt, sky-guided vulpine friend; Kindar; Muruski; Peter Hayes; Ruari ORourke; Sethvir; Yana Winters
