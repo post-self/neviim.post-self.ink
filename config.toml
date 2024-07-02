@@ -13,7 +13,7 @@ disablePathToLower = true
     home = 'https://makyo.ink'
     copyright = 2022
     customCSS = ['/css/neviim.css']
-    subtitle = 'Post-Self book III'
+    subtitle = 'Post-Self Cycle book III'
     subtitleLink = 'https://post-self.ink'
 
 [markup.goldmark.renderer]
